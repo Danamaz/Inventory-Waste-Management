@@ -1,2 +1,2 @@
-# Inventory-Waste-Management
+# Inventory-Management
 Inventory Waste Management app 
